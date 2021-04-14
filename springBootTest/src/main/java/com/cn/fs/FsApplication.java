@@ -10,7 +10,7 @@ public class FsApplication {
 
         SpringApplication.run(FsApplication.class, args);
         System.err.println("==========="+"----------");
-
+        System.err.println("==========="+"----------");
     }
 
 }
