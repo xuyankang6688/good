@@ -36,6 +36,7 @@ public class ReflectDemo2 {
         a1.setAccessible(true);
         Object o1 = a1.get(person);
         System.err.println(o1);
+        System.err.println(o+"===========");
 
 
     }
